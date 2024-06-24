@@ -1,5 +1,5 @@
 # DNN_Security
-DNN_Security DNN Security学习，目前主要是记录一下学习笔记  
+DNN Security学习，目前主要是记录一下学习笔记  
 
 ## 对于各项文件备注 
 **DNN_code**：学习代码，主要使用python  
